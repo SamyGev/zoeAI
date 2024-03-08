@@ -1,0 +1,12 @@
+mutagen
+ollama
+numpy
+pyautogui
+pyaudio
+gtts
+ffmpeg
+ffmpeg-downloader
+ffprobe
+speechRecognition
+pygame
+pydub
