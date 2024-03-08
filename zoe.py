@@ -1,14 +1,8 @@
 import speech_recognition as sr
 from gtts import gTTS
-import winsound
 from pydub import AudioSegment
-import pyautogui
-import webbrowser
-import requests
 import ollama
-import json
 from pygame import mixer
-from datetime import datetime
 import os
 from mutagen.mp3 import MP3
 import time
