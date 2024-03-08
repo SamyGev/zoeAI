@@ -1,7 +1,6 @@
 mutagen
 ollama
 numpy
-pyautogui
 pyaudio
 gtts
 ffmpeg
